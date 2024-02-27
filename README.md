@@ -6,3 +6,4 @@
 - 🌱 Striving to learn how to create *better software*
 - 🦀 In the process of becoming a *rustacean*
 - 🐬 The Flipper Zero is my favorite gadget. I have one, *duh*
+- 😄 Pronouns: he / they (???)

@@ -6,5 +6,6 @@
 - 🌱 Striving to learn how to create *better software*
 - 🦀 In the process of becoming a *rustacean*
 - 🐬 The Flipper Zero is my favorite gadget. I have one, *duh*
+- 🎹 Life would be pretty sad without electronic music (Kraftwerk ftw <3)
 - 📖 Manga <3
-- 😄 Pronouns: he / him
+- 😄 Pronouns: he / they (???)

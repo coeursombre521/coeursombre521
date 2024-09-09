@@ -1,3 +1,3 @@
-# hello
+# hello world
 
-- i am a dork that does crappy coding
+- currently studying C, C++, Rust and Go
